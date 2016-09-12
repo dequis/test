@@ -1,2 +1,2 @@
 # test
-move along nothing to see here
+:package: move along nothing to see here
