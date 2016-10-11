@@ -1,2 +1,2 @@
 # test
-:cop: `move along nothing to see here`
+:rainbow: amazing things to see here!
